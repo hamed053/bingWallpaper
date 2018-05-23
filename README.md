@@ -1,2 +1,2 @@
 # bingWallpaper
-Set Bing image of Day as Ubuntu Wallpaper
+Set Bing image of Day as Ubuntu Wallpaper :)
